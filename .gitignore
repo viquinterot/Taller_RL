@@ -1,0 +1,28 @@
+# Entornos virtuales de Python
+/venv/
+/.venv/
+/env/
+/.env/
+/lib/
+/lib64/
+
+# Archivos de caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos generados por IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Archivos de dependencias específicas de un entorno
+*.egg-info/
+dist/
+build/
+
+# Archivos de Optuna
+*.log
+*.db
