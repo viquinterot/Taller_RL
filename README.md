@@ -1,11 +1,11 @@
 # Taller de Aprendizaje por Refuerzo: Péndulo y Super Mario Bros
 
 **Autor:** Víctor Quintero  
-**Materia:** Pensamiento de Máquina (Doctorado en IA)
+**Materia:** Pensamiento de Máquina
 
 ---
 
-## Resumen General
+## Introducción
 
 Este repositorio contiene las soluciones para el taller de Aprendizaje por Refuerzo (RL), enfocado en dos entornos clásicos con desafíos distintos: `Pendulum-v1` (control continuo) y `gym-super-mario-bros` (control desde pixeles con recompensas dispersas).
 
