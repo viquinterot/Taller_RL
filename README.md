@@ -27,9 +27,6 @@ El primer proyecto se centra en el problema de control clásico de balancear un 
 
 La curva de recompensa muestra una mejora constante, y el video comparativo evidencia cómo el agente entrenado logra estabilizar el péndulo de manera eficiente, a diferencia de un agente aleatorio.
 
-| Gráfica de Recompensa (Péndulo) | Agente Entrenado vs. Aleatorio (Péndulo) |
-| :---------------------------------: | :----------------------------------------: |
-| ![Curva de Recompensa](ruta/a/grafica_pendulo.png) | *(GIF o imagen del video comparativo)* |
 
 ▶️ **Ver el cuaderno completo:** [`pendulum-v1-con-tf-agents-v-ctor-quintero.ipynb`](./ruta/a/tu/cuaderno_pendulo.ipynb)
 
